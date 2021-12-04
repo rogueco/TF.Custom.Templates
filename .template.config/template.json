@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tom Fletcher",
+    "classifications": [ "Web", "WebAPI" ],
+    "identity": "TF.Custom.Template",
+    "name": "Tom Fletcher custom template",
+    "shortName": "tfcustomtemplate",
+    "sourceName": "TF.Custom.Template",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+  } 
