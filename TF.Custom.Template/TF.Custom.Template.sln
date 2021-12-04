@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF.Custom.Template", "TF.Custom.Template\TF.Custom.Template.csproj", "{A2A5A030-69E6-4C3D-90A7-F502B9E61116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A5A030-69E6-4C3D-90A7-F502B9E61116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A5A030-69E6-4C3D-90A7-F502B9E61116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A5A030-69E6-4C3D-90A7-F502B9E61116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A5A030-69E6-4C3D-90A7-F502B9E61116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
